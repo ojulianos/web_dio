@@ -1,0 +1,11 @@
+{
+  "name": "desafionode",
+  "version": "1.0.0",
+  "description": "servidor com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliano Silva",
+  "license": "ISC"
+}
